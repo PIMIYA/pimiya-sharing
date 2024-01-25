@@ -8,6 +8,16 @@ PIMIYA-SHARING aim to share useful resources, including libraries/packages, deve
 
 - [Player Multiple Video in sync and loop by OMXPlayer-sync](https://github.com/PIMIYA/RPi_SyncLooper)
 
+- [4K video loop player for RPi4/3 Kodi base player](https://github.com/HsienYu/4K_VidPlayer_Rpi4)
+
+- [PoseNet GUI App to OSC or Json, addr](https://github.com/HsienYu/PoseNetOSC_AppleSilicon)
+
+- [Hiwin Robotic Arm SDK for python developer](https://github.com/HsienYu/RobotArming)
+
+- [FB AD scraper](https://github.com/HsienYu/fb-ad-lib-scraper)
+
+- [GoogleStreetView 360 hyperlapse video generator](https://github.com/HsienYu/Mod_Hyper.git)
+
 - [Userspace Raspberry Pi PWM library for WS281X LEDs](https://github.com/jgarff/rpi_ws281x)
 
 - [Text-based interfaces and animation](https://github.com/peterbrittain/asciimatics)
